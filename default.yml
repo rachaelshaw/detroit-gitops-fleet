@@ -8,6 +8,9 @@ org_settings:
   server_settings:
     server_url: $FLEET_URL
   org_info:
-    org_name: Fleet
+    org_name: Plum-out Pies
+    org_logo_url: https://em-content.zobj.net/source/apple/419/pie_1f967.png
+    org_logo_url_light_background: https://em-content.zobj.net/source/apple/419/pie_1f967.png
+
   secrets:
     - secret: "$FLEET_GLOBAL_ENROLL_SECRET"
