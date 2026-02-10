@@ -11,9 +11,9 @@ org_settings:
     org_name: Plum-out Pies
     org_logo_url: https://em-content.zobj.net/source/apple/419/pie_1f967.png
     org_logo_url_light_background: https://em-content.zobj.net/source/apple/419/pie_1f967.png
-webhook_settings: 
-  activities_webhook:
-    enable_activities_webhook: true
-    destination_url: example.com
+  webhook_settings: 
+    activities_webhook:
+      enable_activities_webhook: true
+      destination_url: example.com
   secrets:
     - secret: "$FLEET_GLOBAL_ENROLL_SECRET"
