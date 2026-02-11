@@ -6,7 +6,7 @@ agent_options:
 controls:
 org_settings:
   server_settings:
-    server_url:$FLEET_URL
+    server_url: $FLEET_URL
   org_info:
     org_name: Plum-out Pies
     org_logo_url: https://em-content.zobj.net/source/apple/419/pie_1f967.png
